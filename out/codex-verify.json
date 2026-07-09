@@ -1,0 +1,5 @@
+{
+  "verdict": "HOLLOW",
+  "reason": "Der Test importiert ein df-169-engine.py mit Tracker/Lock/API-Helpers und prueft nie factorize, is_perfect_square oder mission_signature fuer 169 samt adversarialem Gegenfall.",
+  "ts": "2026-07-08T15:09:08.940409+00:00"
+}
