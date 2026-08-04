@@ -1,0 +1,16 @@
+{
+  "df": "DF-169",
+  "emails_received": 0,
+  "emails_sent": 0,
+  "escalations": [],
+  "iso_timestamp": "2026-08-03T03:55:33+00:00",
+  "k17_pre_action_verification": {
+    "env_tag": "local",
+    "missing_anchors": [],
+    "ok": true
+  },
+  "open_threads": 0,
+  "response_time_avg_days": 0,
+  "source": "mock",
+  "welle": "25"
+}
